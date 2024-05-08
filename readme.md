@@ -8,8 +8,8 @@
     <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="28px" width="56px" />
   </a>
   <span style="width: 8px;"> </span>
-   <a href="https://youtube.com/midudev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+   <a href="mailto:r.sannarain@gmail.com" target="blank">
+    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="23px" width="33px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://instagram.com/midu.dev" target="blank">
