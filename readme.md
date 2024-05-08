@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rramira/" target="_blank">
-    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="28px" width="56px" />
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="28px" width="56px"/>
   </a>
   <span style="display: inline-block; width: 8px;"></span>
   <a href="https://drive.google.com/file/d/1RdemcBLYviSFCyAQa0yn6ehY-pis9ASE/view?usp=sharing" target="_blank">
-    <img align="center" src="https://cdn-icons-png.freepik.com/512/6614/6614677.png" alt="Gmail" height="23px" width="33px" />
+    <img align="center" src="https://www.freeiconspng.com/uploads/resume-icon-png-16.png" alt="LinkedIn" height="50px" width="56px" />
   </a>
 </p>
