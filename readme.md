@@ -10,6 +10,6 @@
   </a>
   <span style="display: inline-block; width: 8px;"></span>
   <a href="https://drive.google.com/file/d/1RdemcBLYviSFCyAQa0yn6ehY-pis9ASE/view?usp=sharing" target="_blank">
-    <img align="center" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-resume-icon-png-image_4190798.jpg" alt="Gmail" height="23px" width="33px" />
+    <img align="center" src="https://cdn-icons-png.freepik.com/512/6614/6614677.png" alt="Gmail" height="23px" width="33px" />
   </a>
 </p>
