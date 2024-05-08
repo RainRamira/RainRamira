@@ -3,13 +3,4 @@
   <img align="center" src="https://media.licdn.com/dms/image/D4D16AQHrPkkPJncr3A/profile-displaybackgroundimage-shrink_350_1400/0/1694096121641?e=1720656000&v=beta&t=FNsp9qsp3bmOvsuTxVG3Tk07PuZZJ1xEHSShPbSr1yU" />
   <h3 align="center">Rain Ramira - Programador Web 👨🏻‍💻</h3>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rramira/" target="_blank">
-    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="28px" width="56px"/>
-  </a>
-  <span style="display: inline-block; width: 8px;"></span>
-  <a href="https://drive.google.com/file/d/1RdemcBLYviSFCyAQa0yn6ehY-pis9ASE/view?usp=sharing" target="_blank">
-    <img align="center" src="https://www.freeiconspng.com/uploads/resume-icon-png-16.png" alt="LinkedIn" height="50px" width="56px" />
-  </a>
-</p>
+  
