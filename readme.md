@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <a href="www.linkedin.com/in/rramira/" target="blank">
+   <a href="https://www.linkedin.com/in/rramira/" target="blank">
     <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="28px" width="56px" />
   </a>
   <span style="width: 8px;"> </span>
