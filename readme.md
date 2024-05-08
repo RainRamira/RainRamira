@@ -9,11 +9,7 @@
     <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="28px" width="56px" />
   </a>
   <span style="display: inline-block; width: 8px;"></span>
-  <a href="mailto:r.sannarain@gmail.com" target="_blank">
-    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" height="23px" width="33px" />
-  </a>
-  <span style="display: inline-block; width: 8px;"></span>
-  <a href="mailto:r.sannarain@gmail.com" target="_blank">
-    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" height="23px" width="33px" />
+  <a href="https://drive.google.com/file/d/1RdemcBLYviSFCyAQa0yn6ehY-pis9ASE/view?usp=sharing" target="_blank">
+    <img align="center" src="https://png.pngtree.com/png-vector/20190501/ourmid/pngtree-vector-resume-icon-png-image_1009829.jpg" alt="Gmail" height="23px" width="33px" />
   </a>
 </p>
