@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://github.com/RainRamira/RainRamira/blob/main/1694093388589.jpg?raw=true" alt="Rain Ramira" width="200" />
- <h3 align="center">Rain Ramira - Programador Web 👨🏻‍💻</h3>
+  <h3>Rain Ramira - Programador Web 👨🏻‍💻</h3>
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rramira/" target="_blank">
