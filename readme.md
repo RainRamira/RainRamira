@@ -1,11 +1,11 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/RainRamira/RainRamira/blob/main/1694093388589.jpg?raw=true" />
-   <h3 align="center">¡Rain Ramira Programador Web 👨🏻‍💻</h3>
+   <h3 align="center">Rain Ramira Programador Web 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
-   <a href="https://twitch.tv/midudev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
+   <a href="www.linkedin.com/in/rramira/" target="blank">
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height="28px" width="56px" />
   </a>
   <span style="width: 8px;"> </span>
    <a href="https://youtube.com/midudev" target="blank">
